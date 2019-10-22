@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="main_title">Countries</string>
+    <string name="details_title">Details</string>
+    <string name="population">Population:</string>
+    <string name="capital">Capital:</string>
+    <string name="currencies">Currencies:</string>
+    <string name="languages">Languages:</string>
+    <string name="error">Error while refreshing\nPlease check your internet connection and try again</string>
+</resources>

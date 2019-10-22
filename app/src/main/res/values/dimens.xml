@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="body_corners_radius">12dp</dimen>
+    <dimen name="details_body_overlap">-12dp</dimen>
+
+    <dimen name="text_country_details_name_size">35sp</dimen>
+    <dimen name="text_country_details_main_size">20sp</dimen>
+    <dimen name="text_list_item_size">20sp</dimen>
+
+    <dimen name="delimiter_margin">10dp</dimen>
+
+    <dimen name="details_padding">16dp</dimen>
+    <dimen name="list_item_padding">10dp</dimen>
+</resources>
